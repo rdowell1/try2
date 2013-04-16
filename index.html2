@@ -9,6 +9,8 @@
 			<li><a href="index.html">home</a></li>
 			<li><a href="about.html">about</a></li>
 			<li><a href="contact.html">contact</a></li>
+		</ul>
+	</nav>
 </head>
 <body>
 	<h1>Lightning!</h1>
