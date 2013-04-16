@@ -4,6 +4,11 @@
 	<title>Lightning</title>
 	<meta charset="utf-8"/>
 	<link rel="stylesheet" href="css/main.css" />
+	<nav>
+		<ul>
+			<li><a href="index.html">home</a></li>
+			<li><a href="about.html">about</a></li>
+			<li><a href="contact.html">contact</a></li>
 </head>
 <body>
 	<h1>Lightning!</h1>
