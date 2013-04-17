@@ -1,3 +1,44 @@
+body {
+	color: #323232;
+	font-family:"Trebuchet MS", Helvetica, sans-serif;
+	font-size: 14px;
+	line-height: 1.5;
+	width: 790px;
+	margin: 0 auto;
+	background: #aeaeae;
+}
+
+ul {
+	width: 810px;
+	margin: 0 auto;
+	background: #666;
+	list-style-type: none;
+	padding: 0;
+}
+
+li {
+	width: 100px;
+	background: silver;
+	float: right;
+	overflow: hidden;
+}
+
+a {
+	text-decoration: none;
+	height: 30px;
+	display: block;
+	background: #323232;
+	line-height: 30px;
+	text-align: center;
+	color: #d0000d;
+}
+
+a:hover {
+	color: #aeaeae;
+	background: #323232;
+}
+
+
 /*
 css for Lightning site
 */
