@@ -1,42 +1,59 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-	<title>Lightning</title>
-	<meta charset="utf-8"/>
-	<link rel="stylesheet" href="css/main.css" />
-	<nav>
-		<ul>
-			<li><a href="index.html">home</a></li>
-			<li><a href="about.html">about</a></li>
-			<li><a href="contact.html">contact</a></li>
-		</ul>
-	</nav>
-</head>
-<body>
-	<h1>Lightning!</h1>
-	<img src="images/lightning1.jpg" width="200" height="162" 
-		alt="Lightning Farron with wind blowing her hair" title="Lightning Farron">
-	<p>Born Claire Farron, "Lightning" is the main protagonist in Final Fantasy VIII.  
-		She tries to save her younger sister, Serah, who was turned into a I'Clie, 
-		only to become one herself.  Lightning is a determined and intense character 
-		with a cold, standoffish personality. </p>
+	<head>
+		<title>Lightning Farron</title>
+		<meta charset="utf-8"/>
+		<link rel="stylesheet" href="css/main.css" />
+	</head>
+	<body>
+		<div id="header">
+			<div id="branding">
+				<h1>Lightning Farron!</h1>
+			</div>
+		</div> <!-- end of header div -->
+		<div id="navigation">
+			<ul>
+				<li><a href="index.html2">Home</a></li>
+				<li><a href="about.html">About Us</a></li>
+				<li><a href="contact.html">Contact Us</a></li>
+			</ul>
+		</div> <-- end of navigation div -->
+		<div id="bodycontent">
+			<p><img src="images/lightning1.jpg" width="200" height="162" 
+				alt="Lightning Farron with wind blowing her hair" title="Lightning Farron" /></p>
+			<p>Born Claire Farron, "Lightning" is the main protagonist in Final Fantasy VIII.  
+				She tries to save her younger sister, Serah, who was turned into a I'Clie, 
+				only to become one herself.  Lightning is a determined and intense character 
+				with a cold, standoffish personality.</p>
+		</div> <!-- end of bodycontent div -->
+	</body>
 	<h2>Gallery<h2>
-		<img src="images/Lightning_armed_800px_573px.jpg" width="100" height="100"
-			alt="Lightning armed and ready" title="Lightning Armed">
-		<img src="images/Lightning_armor_1920_1080.jpg" width="100" height="100"
-			alt="Lightning in armor" title="Lightning Battle Ready">
-		<img src="images/Lightning_sitting_1920_1200.jpg" width="100" height="100"
-			alt="Lightning sitting on the throne" title="On the Throne">
-		<img src="images/Lightning_570_300.jpg" width="100" height="100"
-			alt="Lightning" title="Lightning">
-		<img src="images/Lightning_feathers_1024_576.jpg" width="100" height="100"
-			alt="Lightning with feathers flying" title="Lightning Feathers">
-		<img src="images/Lightning_sunglasses_700_394.jpg" width="100" height="100"
-			alt="Lightning wearing sunglasses" title="Razor's Edge">
-		<img src="images/Lightning_pixie_730_411.jpg" width="100" height="100"
-			alt="Lightning looks like a pixie" title="Lightning Pixie">
-		<img src="images/Lightning_640_360.jpg" width="100" height="100"
-			alt="Lightning looking cool" title="Lightning">
+		<ul id="gallery">
+			<li><a href="images/Lightning_armed_800px_573px.jpg" title="Lightning Armed"
+				<img src="images/Lightning_armed_800px_573px.jpg" alt="Lightning armed"
+				width="100" height="100"/></a></li>
+			<li><a href="images/Lightning_armor_1920_1080.jpg" title="Lightning battle ready"
+				<img src="images/Lightning_armed_1920_1080.jpg" alt="Lightning
+				in armor" width="100" height="100"></a></li>
+			<li><a href="images/Lightning_sitting_1920_1200.jpg" title="On the throne"
+				<img src="images/Lightning_sitting_1920_1200.jpg alt="Lightning
+				sitting on the throne" width="100" height="100"></a></li>
+			<li><a href="images/Lightning_570_300.jpg" title="Lightning" 
+				<img src="images/Lightning_570_300.jpg" alt="Lightning" width="100"
+				height="100"></a></li>
+			<li><a href="images/Lightning_feathers_1024_576.jpg" title="Lightning feathers"
+				<img src="images/Lightning_feathers_1024_576.jpg" alt="Lightning
+				with feathers flying" width="100" height="100"></a></li>
+			<li><a href="images/Lightning_sunglasses_700_394.jpg" title="Razor's edge"
+				<img src="images/Lightning_sunglasses_700_394.jpg" alt="Lightning
+				wearing sunglasses" width="100" height="100"></a></li>
+			<li><a href="images/Lightning_pixie_730_411.jpg" title="Lightning Pixie"
+				<img src="images/Lightning_pixie_730_411.jpg" alt="Lightning
+				pixie" width="100" height="100"></a></li>
+			<li><a href="images/Lightning_640_360.jpg" title="Lightning Farron"
+				<img src="images/Lightning_640_360.jpg" alt="Lightning"
+				width="100" height="100"></a></li> 
+		</ul id="gallery">
 	<h2>Story Background</h2>
 	<h3>Register For Free</h3>
 		
