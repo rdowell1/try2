@@ -3,11 +3,11 @@ body {
 	font-family:"Trebuchet MS", Helvetica, sans-serif;
 	font-size: 14px;
 	line-height: 1.5;
-	width: 790px;
+	width: 960px;
 	margin: 0 auto;
 	background: #aeaeae;
 }
-
+/*---------------Navigation---------------------*/
 ul {
 	width: 810px;
 	margin: 0 auto;
@@ -38,12 +38,22 @@ a:hover {
 	background: #323232;
 }
 
+/*-------------------Gallery---------------------*/
 
-/*
+
 css for Lightning site
 */
 
 p {
 	font-weight: bold;
 	color: green;
+}
+
+img {
+	float: left;
+	width: 300px;
+}
+
+h2 {
+	clear: both;
 }
