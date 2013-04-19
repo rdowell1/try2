@@ -53,29 +53,6 @@ a:hover {
 	background: #323232;
 }
 
-/*-------------------Gallery---------------------*/
-
-ul id="gallery" {
-	border: 1px dashed #666;
-	list_style_type: none;
-	width: 630px;
-	margin: 20px auto;
-	overflow: hidden;
-	padding: 5px;
-}
-
-	li {
-		float: left;
-		margin-left: 19px;
-	}
-	
-		a {
-			border: 5px solid #fff;
-			display: block;
-			height: 100px;
-			width: 100px;
-			outline: 0;
-		}
 /*
 css for Lightning site
 */
