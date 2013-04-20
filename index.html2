@@ -20,7 +20,7 @@
 			</ul>
 		</div> <!-- end of navigation div -->
 		<div id="bodycontent">
-			<p><img src="images/lightning1.jpg" width="200" height="162" 
+			<p><img id="main photo" src="images/lightning1.jpg" width="200" height="162" 
 				alt="Lightning Farron with wind blowing her hair" title="Lightning Farron" /></p>
 			<p>Born Claire Farron, "Lightning" is the main protagonist in Final Fantasy VIII.  
 				She tries to save her younger sister, Serah, who was turned into a I'Clie, 
