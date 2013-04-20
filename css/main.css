@@ -4,13 +4,11 @@ css for Lightning site
 
 p {
 	font-weight: bold;
-	color: green;
-	margin: 60px 40px 20px 0;
-	
+	color: green;	
 }
 
 img {
-	float: left;
+	float: right;
 	width: 300px;
 }
 
@@ -75,5 +73,29 @@ h2 {
 }
 
 img {
-	border: 15px solid white;
+	border: 15px solid #cccccc;
+}
+
+#introduction {
+	border: 1px solid navy;
+	width: 550px;
+	height: 180px;
+	float: right;
+	background: #cccccc;
+}
+
+#Table {
+	border: 1px solid navy;
+	width: 475px;
+	height: 300px;
+	background: #a9a9a9;
+	float: left;
+}
+
+#RegisterForm {
+	border: 1px solid navy;
+	width: 475px;
+	height: 300px;
+	background: #a9a9a9;
+	float: right;
 }

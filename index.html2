@@ -20,17 +20,38 @@
 			</ul>
 		</div> <!-- end of navigation div -->
 		<div id="bodycontent">
-			<p><img id="main photo" src="images/lightning1.jpg" width="200" height="162" 
+			<p><img id="main photo" src="images/lightning1.jpg" width="300" height="190" 
 				alt="Lightning Farron with wind blowing her hair" title="Lightning Farron" /></p>
+		</div> <!-- end of bodycontent div -->
+		<div id="introduction">
+			<h2>Character Background</h2>
 			<p>Born Claire Farron, "Lightning" is the main protagonist in Final Fantasy VIII.  
 				She tries to save her younger sister, Serah, who was turned into a I'Clie, 
 				only to become one herself.  Lightning is a determined and intense character 
 				with a cold, standoffish personality.</p>
-		</div> <!-- end of bodycontent div -->
-	</body>
-	
-	<h2>Story Background</h2>
-	<h3>Register For Free</h3>
-		
+		</div> <!-- end of introduction div -->
+		<div id="story">
+			<h2>Story Background</h2>
+			<p>Lightning Farron has raised her younger sister, Serah, since she was fifteen years old.  
+				With both of her parents gone, she had changed her name from Claire Farron 
+				to Lightning.</p>
+			<p>Not long before her twenty-first birthday, Lightning meets Snow, the leader
+				of a group known as NORA.  Snow also happens to be Serah's boyfriend.
+				Lightning doesn't approve of the vigilante ways of NORA and demands that
+				Snow stop seeing Serah.  While at the Bodhum fireworks festival, Lightning
+				hears about a Pulse-related incident at Vestige which is being kept secret
+				by the Sanctum.</p>
+			<p>Then on Lightning's twenty-first birthday, Serah reveals that she has been
+				branded as a l'Cie, and that she and Snow are engaged.  After fighting with
+				Serah, Lightning takes off and opens the birthday present Serah gave her:
+				a survival knife.</p>
+			<p>This all leads up to Final Fantasy VIII.</p>
+		</div> <!-- end of story div -->
+		<div id="Table">
+			<h2>Table</h2>
+		</div> <!-- end of Table div -->
+		<div id="RegisterForm">
+			<h2>Register For Free</h2>
+		</div> <!-- end of RegisterForm div -->
 	</body>
 </html>
