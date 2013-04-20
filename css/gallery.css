@@ -1,7 +1,3 @@
-/*
-css for Lightning site
-*/
-
 p {
 	font-weight: bold;
 	color: green;	
@@ -78,35 +74,4 @@ img {
 
 #navigation {
 	float: right;
-}
-
-#introduction {
-	border: none;
-	width: 550px;
-	height: 180px;
-	float: right;
-	margin-right: 25px;
-	padding-top: 20px;
-}
-
-#story {
-	padding-top: 20px;
-}
-
-#Table {
-	border: 1px solid navy;
-	width: 475px;
-	height: 300px;
-	background: #a9a9a9;
-	float: left;
-	text-align: center;
-}
-
-#RegisterForm {
-	border: 1px solid navy;
-	width: 475px;
-	height: 300px;
-	background: #a9a9a9;
-	float: right;
-	text-align: center;
 }
