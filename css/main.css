@@ -110,3 +110,12 @@ img {
 	float: right;
 	text-align: center;
 }
+
+#lightning_container {
+	border: 15px solid #153a25;
+	width: 31.25%; /* 300px/960px */
+}
+
+#lightning_container img {
+	max-width: 100%;
+}

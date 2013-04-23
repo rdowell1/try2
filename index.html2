@@ -19,10 +19,13 @@
 				<li><a href="index.html2">Home</a></li>
 			</ul>
 		</div> <!-- end of navigation div -->
-		<div id="bodycontent">
-			<p><img id="main photo" src="images/lightning1.jpg" width="300" height="190" 
-				alt="Lightning Farron with wind blowing her hair" title="Lightning Farron" /></p>
-		</div> <!-- end of bodycontent div -->
+		<section>
+			<article>
+				<div id="lightning_container"><img src="images/lightning1.jpg"  
+				alt="Lightning Farron with wind blowing her hair" title="Lightning Farron" />
+				</div> <!-- end of lightning container div -->
+			</article>
+		</section>
 		<div id="introduction">
 			<h2>Character Background</h2>
 			<p>Born Claire Farron, "Lightning" is the main protagonist in Final Fantasy VIII.  
