@@ -9,14 +9,14 @@ p {
 
 img {
 	float: right;
-	width: 300px;
+	width: 31.25%;
 }
 
 body {
 
 	color: #323232;
 	font-family:"Trebuchet MS", Helvetica, sans-serif;
-	font-size: 14px;
+	font-size: 100%;
 	line-height: 1.5;
 	width: 960px;
 	margin: 0 auto;
@@ -51,16 +51,6 @@ a {
 a:hover {
 	color: #aeaeae;
 	background: #323232;
-}
-
-/*
-css for Lightning site
-*/
-
-p {
-	font-weight: bold;
-	color: green;
-	clear: right;
 }
 
 img {

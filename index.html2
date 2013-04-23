@@ -56,5 +56,7 @@
 		<div id="RegisterForm">
 			<h2>Register For Free</h2>
 		</div> <!-- end of RegisterForm div -->
+		<div id="footer">
+		</div> <!-- end of footer div-->
 	</body>
 </html>
