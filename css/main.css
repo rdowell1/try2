@@ -2,25 +2,47 @@
 css for Lightning site
 */
 
+
 p {
 	font-weight: bold;
 	color: green;	
 }
 
-img {
-	float: right;
-	width: 31.25%;
-}
-
 body {
 
-	color: #323232;
-	font-family:"Trebuchet MS", Helvetica, sans-serif;
-	font-size: 100%;
-	line-height: 1.5;
-	width: 960px;
+	color: green#;
+	font: 100%/1.5 "Trebuchet MS", Helvetica, sans-serif;
+	max-width: 960px;
+	margin: 20px auto;
+	background-color: #aeaeae;
+}
+
+#branding {
+	padding-left: 2.22222%; /* 20px/900px*/
+}
+
+#hook {
+	width: 100%; /* 900px*/
 	margin: 0 auto;
-	background: #aeaeae;
+	overflow: hidden;
+	border: 1px solid #424242;
+}
+
+#lightning_container {
+	float: left;
+	width: 33.3333%; /* 300px/900px*/
+	margin-left: 1.11111%; /* 10px/900px*/
+	height: 9.375em;
+}
+
+#lightning_container img {
+	max-width: 100%;
+}
+
+#introduction {
+	float: right;
+	width: 66.6666667%; /*600px/900px*/
+	padding-left: 3.33333%; /* 20px/600px*/
 }
 /*---------------Navigation---------------------*/
 ul {
@@ -51,11 +73,6 @@ a {
 a:hover {
 	color: #aeaeae;
 	background: #323232;
-}
-
-img {
-	float: left;
-	width: 300px;
 }
 
 h2 {
@@ -101,11 +118,6 @@ img {
 	text-align: center;
 }
 
-#lightning_container {
-	border: 15px solid #153a25;
-	width: 31.25%; /* 300px/960px */
-}
 
-#lightning_container img {
-	max-width: 100%;
-}
+
+

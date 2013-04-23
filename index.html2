@@ -1,38 +1,39 @@
 <!DOCTYPE html>
 <html lang="en">
 	<head>
-		<title>Lightning Farron</title>
 		<meta charset="utf-8"/>
+		<title>Lightning Farron</title>
 		<link rel="stylesheet" href="css/main.css"/>
 	</head>
 	<body>
-		<div id="header">
-			<div id="branding">
-				<h1>Lightning Farron!</h1>
-			</div>
-		</div> <!-- end of header div -->
-		<div id="navigation">
-			<ul>
-				<li><a href="gallery.html">Gallery</a></li>
-				<li><a href="contact.html">Contact Us</a></li>
-				<li><a href="about.html">About Us</a></li>
-				<li><a href="index.html2">Home</a></li>
-			</ul>
-		</div> <!-- end of navigation div -->
-		<section>
-			<article>
+		<div id="hook">
+			<header>
+				<div id="branding">
+					<h1>Lightning Farron!!</h1>
+				</div> <!-- end of branding div -->
+		
+				<div id="navigation">
+					<ul>
+						<li><a href="gallery.html">Gallery</a></li>
+						<li><a href="contact.html">Contact Us</a></li>
+						<li><a href="about.html">About Us</a></li>
+						<li><a href="index.html2">Home</a></li>
+					</ul>
+				</div> <!-- end of navigation div -->
+			</header>
 				<div id="lightning_container"><img src="images/lightning1.jpg"  
-				alt="Lightning Farron with wind blowing her hair" title="Lightning Farron" />
+					alt="Lightning Farron with wind blowing her hair" title="Lightning Farron" />
 				</div> <!-- end of lightning container div -->
-			</article>
-		</section>
-		<div id="introduction">
-			<h2>Character Background</h2>
-			<p>Born Claire Farron, "Lightning" is the main protagonist in Final Fantasy VIII.  
-				She tries to save her younger sister, Serah, who was turned into a I'Clie, 
-				only to become one herself.  Lightning is a determined and intense character 
-				with a cold, standoffish personality.</p>
-		</div> <!-- end of introduction div -->
+				
+				<div id="introduction">
+					<h2>Character Background</h2>
+					<p>Born Claire Farron, "Lightning" is the main protagonist in Final Fantasy VIII.  
+						She tries to save her younger sister, Serah, who was turned into a I'Clie, 
+						only to become one herself.  Lightning is a determined and intense character 
+						with a cold, standoffish personality.</p>
+				</div> <!-- end of introduction div -->
+		</div> <!-- end of hook div -->
+		
 		<div id="story">
 			<h2>Story Background</h2>
 			<p>Lightning Farron has raised her younger sister, Serah, since she was fifteen years old.  
