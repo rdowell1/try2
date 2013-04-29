@@ -52,9 +52,31 @@
 				a survival knife.</p>
 			<p>This all leads up to Final Fantasy VIII.</p>
 		</div> <!-- end of story div -->
-		<div id="Table">
-			<h2>Table</h2>
-		</div> <!-- end of Table div -->
+		<section>
+			<h2>Registration Plans</h2>
+			
+			<table>
+				<tr>
+					<th>Plan</th>
+					<th>View Gallery</th>
+					<th>Post Pics</th>
+					<th>Price</th>
+				</tr>
+				<tr>
+					<td>Standard</td>
+					<td>Yes</td>
+					<td>No</td>
+					<td>Free</td>
+				</tr>
+				<tr>
+					<td>Premium</td>
+					<td>Yes</td>
+					<td>Yes</td>
+					<td>$5.00/month</td>
+				</tr>
+			</table>
+		</section>
+					
 		<div id="RegisterForm">
 			<h2>Register For Free</h2>
 		</div> <!-- end of RegisterForm div -->
