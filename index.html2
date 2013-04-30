@@ -76,10 +76,59 @@
 				</tr>
 			</table>
 		</section>
-					
-		<div id="RegisterForm">
-			<h2>Register For Free</h2>
-		</div> <!-- end of RegisterForm div -->
+			
+			<form method="get" action="mailto:coolpapa63@gmail.com">
+			
+				<div id="register">	
+					<h2>Register For Free</h2>
+				</div>
+			
+				<div>
+					<label for="Username">Username</label>
+					<input type="text" name="Username" id="Username" />
+				</div>
+				
+				<div>
+					<label for="Email">Email Address</label>
+					<input type="text" name="Email" id="Email" />
+				</div>
+				
+				<div>
+					<label for="Email_confirm">Confirm Email Address</label>
+					<input type="text" name="Email_confirm" id="Email_confirm" />
+				</div>
+				
+				<div>
+					<label for="Password">Password</label>
+					<input type="text" name="Password" id="Password" />
+				</div>
+				
+				<div>
+					<label for="Confirm_password">Confirm Password</label>
+					<input type="text" name="Confirm_password" id="Confirm_password" />
+				</div>
+				
+				<div>
+					<label for="Country">Country of Origin</label>
+					<input type="text" name="Country" id="Country" />
+				</div>
+				
+				<div>
+					<label for="Sex">Sex</label>
+				</div>
+				
+				<div>
+					<select name="Sex" id="Sex">
+						<option>Male</option>
+						<option>Female</option>
+					</select>
+				</div>
+				
+				<div>
+					<label for="Age">Age</label>
+					<input type="text" name="Age" id="Age" />
+				</div>
+			</form>
 		<div id="footer">
 		</div> <!-- end of footer div-->
 	</body>

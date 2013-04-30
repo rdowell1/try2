@@ -108,6 +108,11 @@ img {
 table {
 	border-collapse: collapse;
 	border: 1px solid #000;
+	width: 50%;
+	position: relative;
+	clear: both;
+	float: left;
+	background: #6dcff6;
 }
 
 td {
@@ -116,21 +121,35 @@ td {
 }
 
 th {
-	text-align: left;
+	text-align: center;
 	background-color: #999;
 	color: #fff;
 	padding: 0.3em;
 }
 
-#RegisterForm {
+
+form {
 	border: 1px solid navy;
-	width: 475px;
-	height: 300px;
-	background: #a9a9a9;
 	float: right;
-	text-align: center;
+	text-align: left;
+	width: 49%;
+	float: right;
+	position: relative;
+	background: #5174d5;
 }
 
+form label {
+	padding-left: 20px;
+}
+
+form input {
+	float: right;
+	padding-right: 20px;
+}
+
+#Sex {
+	padding-left: 20px;
+}
 
 /* Tablet Portrait size to standard 960 (devices and browsers) */
 @media screen and (min-width: 768px) and (max-width: 959px) {
